@@ -18,7 +18,11 @@
 <node CREATED="1389622208898" ID="ID_479147484" MODIFIED="1389622848031" TEXT="Algorithmic Trading ">
 <node CREATED="1389622763069" ID="ID_1524241128" MODIFIED="1389622875557" TEXT="Low-latency Trading">
 <node CREATED="1389622876067" ID="ID_1676937127" MODIFIED="1389694245266" TEXT="Here we would need a hardware story!"/>
-<node CREATED="1389694248039" ID="ID_1490475906" MODIFIED="1389694248039" TEXT=""/>
+<node CREATED="1389694248039" ID="ID_1490475906" MODIFIED="1389694248039" TEXT="">
+<node CREATED="1389734013777" ID="ID_334706789" LINK="http://www.hftreview.com/pg/blog/mike/read/55950" MODIFIED="1389734013777" TEXT="hftreview.com &gt; Pg &gt; Blog &gt; Mike &gt; Read &gt; 55950"/>
+<node CREATED="1389734060604" ID="ID_1474885214" MODIFIED="1389734064372" TEXT="http://www.math.nyu.edu/faculty/avellane/QuantCongressUSA2011AlgoTradingLAST.pdf"/>
+<node CREATED="1389734112749" ID="ID_1030432801" MODIFIED="1389734115384" TEXT="http://www.bittware.com/fpga-dsp-applications/financial/high-frequency-trading"/>
+</node>
 </node>
 <node CREATED="1389622851523" ID="ID_1875272634" MODIFIED="1389622866375" TEXT="High-Frequency Trading"/>
 </node>
